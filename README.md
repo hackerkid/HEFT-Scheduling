@@ -26,8 +26,6 @@ and average scheduling time metrics.
 
 ###Authors
 
-Author(s)
-
 * Topcuoglu, H - Comput. Eng. Dept., Marmara Univ., Istanbul, Turkey 
 * Hariri, S. - Min-You Wu
 
